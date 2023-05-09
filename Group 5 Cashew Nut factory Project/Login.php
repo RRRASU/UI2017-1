@@ -5,9 +5,7 @@
 		
 					<!-- Project Login page
 			
-			 Group 5 ....Ranga rayudu
-						pratap kotra
-						abhiram mandalparthi --->
+			 Group 5 ....Ranga rayudu Rayapudi
 		<meta name="viewport" content="width=device-width">
 		<meta charset="UTF-8"/>
 		<link rel="stylesheet" href="ieSignUp.css" type="text/css"/>
